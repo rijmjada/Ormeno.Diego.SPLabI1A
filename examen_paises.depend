@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1625605565 source:c:\users\administrador\desktop\nueva carpeta\ordenar\examen_paises\genericas.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<Ctype.h>
+	"Genericas.h"
+
+1624981125 c:\users\administrador\desktop\nueva carpeta\ordenar\examen_paises\genericas.h
+
+1625668748 source:c:\users\administrador\desktop\nueva carpeta\ordenar\examen_paises\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Paises.h"
+
+1625668622 c:\users\administrador\desktop\nueva carpeta\ordenar\examen_paises\linkedlist.h
+
+1625668807 source:c:\users\administrador\desktop\nueva carpeta\ordenar\examen_paises\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Genericas.h"
+	"LinkedList.h"
+	"Paises.h"
+	"parser.h"
+
+1625668430 c:\users\administrador\desktop\nueva carpeta\ordenar\examen_paises\paises.h
+
+1625604364 c:\users\administrador\desktop\nueva carpeta\ordenar\examen_paises\parser.h
+
+1625605625 source:c:\users\administrador\desktop\nueva carpeta\ordenar\examen_paises\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Paises.h"
+	"parser.h"
+
+1625668789 source:c:\users\administrador\desktop\nueva carpeta\ordenar\examen_paises\paises.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+	"Genericas.h"
+	"LinkedList.h"
+	"LinkedList.h"
+	"parser.h"
+	"Paises.h"
+
+1625605565 source:c:\users\administrador\desktop\diego.ormeño\genericas.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<Ctype.h>
+	"Genericas.h"
+
+1624981125 c:\users\administrador\desktop\diego.ormeño\genericas.h
+
+1625668898 source:c:\users\administrador\desktop\diego.ormeño\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Paises.h"
+
+1625668622 c:\users\administrador\desktop\diego.ormeño\linkedlist.h
+
+1625668430 c:\users\administrador\desktop\diego.ormeño\paises.h
+
+1625668807 source:c:\users\administrador\desktop\diego.ormeño\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Genericas.h"
+	"LinkedList.h"
+	"Paises.h"
+	"parser.h"
+
+1625604364 c:\users\administrador\desktop\diego.ormeño\parser.h
+
+1625668789 source:c:\users\administrador\desktop\diego.ormeño\paises.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+	"Genericas.h"
+	"LinkedList.h"
+	"LinkedList.h"
+	"parser.h"
+	"Paises.h"
+
+1625605625 source:c:\users\administrador\desktop\diego.ormeño\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Paises.h"
+	"parser.h"
+
